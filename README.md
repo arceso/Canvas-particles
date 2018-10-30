@@ -2,5 +2,5 @@
 Tests con particulas
 
 Run: 
-yarn / npm instal
+yarn / npm instal;
 gulp
